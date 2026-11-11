@@ -1,5 +1,7 @@
 # tipi — Repo Guidelines
 
+Read and follow [AGENTS.md](AGENTS.md).
+
 ## Prime directive
 
 `tipi` is a **view**, never a **source**. Never introduce a new write path. All writes to body/mind/spirit go through the runtime CLIs (`hermes`, `openclaw`, `claude`, `dizzy.py`) or through the consciousness layer owners (OBn, Khoj, future OB1 belief-ledger).
